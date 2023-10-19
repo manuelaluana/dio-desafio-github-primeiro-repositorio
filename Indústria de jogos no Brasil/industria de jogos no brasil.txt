@@ -1,0 +1,27 @@
+> Anotações:
+
+O QUE É?
+
+	* Agrupamento de todas as empresas que trabalham com jogos no Brasil!
+	
+ABRAGAMES(https://www.abragames.org/): Pesquisa a industria Brasileira de games!
+
+	* Número de desenvolvedoras de jogos: 1009 em 2022!
+	* São Paulo e rio de Janeiro são os que mais possuem empresas de jogos! (sudeste 57% das empresas).
+
+ENGINES MAIS UTILIZADAS:
+	
+	* UNITY 83%
+	* UNREAL 23%
+
+PRINCIPAIS FONTES DE RECEITA:	
+
+	* CELULARES E TABLETS 38%
+	* COMPUTADORES 20%
+	* JOGOS COM FOCO EM ENTRETENIMENTO 76%
+
+PRINCIPAIS EVENTOS RELACIONADOS A JOGOS:
+	
+	* BIG FESTIVAL
+	* BRASIL GAME SHOW(BGS)
+	* SBGAMES	
